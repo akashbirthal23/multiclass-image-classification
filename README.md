@@ -1,4 +1,4 @@
-# multiclass-image-classification# Multiclass Image Classification
+# Multiclass Image Classification
 
 ## Overview
 
